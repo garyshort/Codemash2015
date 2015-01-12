@@ -1,0 +1,5 @@
+C:\Users\Gary\Documents\Visual Studio 2013\Projects\PotatoCountingDemo\PlantCountingDemo.Tests\bin\Debug\PlantCountingDemo.Tests.dll
+C:\Users\Gary\Documents\Visual Studio 2013\Projects\PotatoCountingDemo\PlantCountingDemo.Tests\bin\Debug\PlantCountingDemo.Tests.pdb
+C:\Users\Gary\Documents\Visual Studio 2013\Projects\PotatoCountingDemo\PlantCountingDemo.Tests\obj\Debug\PlantCountingDemo.Tests.csprojResolveAssemblyReference.cache
+C:\Users\Gary\Documents\Visual Studio 2013\Projects\PotatoCountingDemo\PlantCountingDemo.Tests\obj\Debug\PlantCountingDemo.Tests.dll
+C:\Users\Gary\Documents\Visual Studio 2013\Projects\PotatoCountingDemo\PlantCountingDemo.Tests\obj\Debug\PlantCountingDemo.Tests.pdb

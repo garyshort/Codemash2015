@@ -1,0 +1,1 @@
+hadoop jar ./share/hadoop/tools/lib/hadoop-streaming-2.4.0.2.1.3.0-1981.jar -files "hdfs:///codemash/apps/Mapper.exe,hdfs:///codemash/apps/Reducer.exe" -mapper "Mapper.exe" -reducer "Reducer.exe" -input /codemash/in -output /codemash/out

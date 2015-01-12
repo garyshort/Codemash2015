@@ -1,0 +1,18 @@
+c:\users\gary\documents\visual studio 2013\Projects\PotatoCountingDemo\PotatoCountingDemo\bin\Debug\PotatoCountingDemo.exe.config
+c:\users\gary\documents\visual studio 2013\Projects\PotatoCountingDemo\PotatoCountingDemo\bin\Debug\PotatoCountingDemo.exe
+c:\users\gary\documents\visual studio 2013\Projects\PotatoCountingDemo\PotatoCountingDemo\bin\Debug\PotatoCountingDemo.pdb
+c:\users\gary\documents\visual studio 2013\Projects\PotatoCountingDemo\PotatoCountingDemo\obj\Debug\PotatoCountingDemo.csprojResolveAssemblyReference.cache
+c:\users\gary\documents\visual studio 2013\Projects\PotatoCountingDemo\PotatoCountingDemo\obj\Debug\PotatoCountingDemo.Form1.resources
+c:\users\gary\documents\visual studio 2013\Projects\PotatoCountingDemo\PotatoCountingDemo\obj\Debug\PotatoCountingDemo.Properties.Resources.resources
+c:\users\gary\documents\visual studio 2013\Projects\PotatoCountingDemo\PotatoCountingDemo\obj\Debug\PotatoCountingDemo.csproj.GenerateResource.Cache
+c:\users\gary\documents\visual studio 2013\Projects\PotatoCountingDemo\PotatoCountingDemo\obj\Debug\PotatoCountingDemo.exe
+c:\users\gary\documents\visual studio 2013\Projects\PotatoCountingDemo\PotatoCountingDemo\obj\Debug\PotatoCountingDemo.pdb
+C:\Users\Gary\Documents\Presentations\Codemash2015\SuperHero\PotatoCountingDemo\PotatoCountingDemo\bin\Debug\PotatoCountingDemo.exe.config
+C:\Users\Gary\Documents\Presentations\Codemash2015\SuperHero\PotatoCountingDemo\PotatoCountingDemo\obj\Debug\PotatoCountingDemo.exe
+C:\Users\Gary\Documents\Presentations\Codemash2015\SuperHero\PotatoCountingDemo\PotatoCountingDemo\obj\Debug\PotatoCountingDemo.pdb
+C:\Users\Gary\Documents\Presentations\Codemash2015\SuperHero\PotatoCountingDemo\PotatoCountingDemo\bin\Debug\PotatoCountingDemo.exe
+C:\Users\Gary\Documents\Presentations\Codemash2015\SuperHero\PotatoCountingDemo\PotatoCountingDemo\bin\Debug\PotatoCountingDemo.pdb
+C:\Users\Gary\Documents\Presentations\Codemash2015\SuperHero\PotatoCountingDemo\PotatoCountingDemo\obj\Debug\PotatoCountingDemo.csprojResolveAssemblyReference.cache
+C:\Users\Gary\Documents\Presentations\Codemash2015\SuperHero\PotatoCountingDemo\PotatoCountingDemo\obj\Debug\PotatoCountingDemo.Form1.resources
+C:\Users\Gary\Documents\Presentations\Codemash2015\SuperHero\PotatoCountingDemo\PotatoCountingDemo\obj\Debug\PotatoCountingDemo.Properties.Resources.resources
+C:\Users\Gary\Documents\Presentations\Codemash2015\SuperHero\PotatoCountingDemo\PotatoCountingDemo\obj\Debug\PotatoCountingDemo.csproj.GenerateResource.Cache
