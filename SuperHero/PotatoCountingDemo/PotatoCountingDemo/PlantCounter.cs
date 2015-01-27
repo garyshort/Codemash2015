@@ -144,7 +144,7 @@ namespace PotatoCountingDemo
             {
                 for (int y = 0; y < this.bitmap.Height; y++)
                 {
-                        
+                    histogram[this.bitmap.GetPixel(x, y).G]++;      
                 }
             };
 
